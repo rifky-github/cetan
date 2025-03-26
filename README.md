@@ -70,4 +70,3 @@ Di dalam skematik ini terdapat module TP4056, MAX17048, XL6009, dan ESP32. TP405
 ## 📑 Note
 Project ini masih dalam bentuk proposal yang berarti belum dieksekusi.
 Belum ada budget untuk memproduksi alat ini.
-Proposal ini bersifat open source yang berarti 
